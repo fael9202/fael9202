@@ -2,7 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.avelarr/)
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=fael9202&show_icons=true&theme=dracula)
 
 ## Tecnologias que mais utilizo:
 
@@ -16,6 +15,6 @@
 </div> <br/>
 
 - 🔭 Atualmente estou trabalhando com React Native
-- 🌱 No momento estou estudando TypeScript
+- 🌱 No momento estou estudando Node.js
 - 📫 Para me encontrar: r.avelarcampos@gmail.com
 
