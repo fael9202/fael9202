@@ -14,6 +14,6 @@
   <img align="center" alt="rn" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> <br/>
 
-- 🔭 Atualmente estou trabalhando com na Istpay com desenvolvimento Mobile
+- 🔭 Atualmente estou trabalhando na Istpay com desenvolvimento Mobile
 - 📫 Para me encontrar: r.avelarcampos@gmail.com
 
