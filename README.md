@@ -48,5 +48,9 @@ Sou Rafael Avelar, desenvolvedor full stack com foco em arquitetura escalável, 
 ⸻
 
 📫 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.avelarr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-avelar-campos-5650ba17b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.avelarcampos@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/rafael_avelarcampos_e71c)
 
 Fique à vontade para me chamar para trocar ideias, discutir soluções técnicas ou colaborar em projetos.
