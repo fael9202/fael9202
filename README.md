@@ -6,9 +6,13 @@ Sou Rafael Avelar, desenvolvedor full stack com foco em arquitetura escalável, 
 ⸻
 
 🚀 Sobre mim
+
 	💼 Desenvolvedor sênior na Begins, atuando com foco em backend, cloud e integrações de alta complexidade.
+ 
  	🧱 Entusiasta de arquitetura hexagonal, DDD, e boas práticas de engenharia de software.
+  
  	☁️ Especializado em soluções na AWS, com ênfase em escalabilidade, observabilidade e resiliência.
+  
 	🧩 Forte experiência em ambientes distribuídos e sistemas orientados a eventos.
 
 ⸻
