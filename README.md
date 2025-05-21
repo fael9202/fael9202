@@ -38,16 +38,22 @@ Sou Rafael Avelar, desenvolvedor full stack com foco em arquitetura escalável, 
 ⸻
 
 💡 Atualmente
-	•	Desenvolvendo e mantendo sistemas financeiros com alta confiabilidade.
-	•	Integrando múltiplos serviços via REST APIs, Webhooks e mensageria assíncrona.
-	•	Automatizando infraestrutura e pipelines CI/CD com foco em qualidade e entrega contínua.
+
+	Desenvolvendo e mantendo sistemas financeiros com alta confiabilidade.
+ 
+	Integrando múltiplos serviços via REST APIs, Webhooks e mensageria assíncrona.
+ 
+	Automatizando infraestrutura e pipelines CI/CD com foco em qualidade e entrega contínua.
 
 ⸻
 
 📌 Interesses Atuais
-	•	Aprimoramento contínuo em arquitetura de microsserviços e event-driven systems.
-	•	Aprofundamento em observabilidade com ferramentas como Grafana, Prometheus e OpenTelemetry.
-	•	Exploração de técnicas de performance e escalabilidade em ambientes de produção.
+
+	Aprimoramento contínuo em arquitetura de microsserviços e event-driven systems.
+
+	Aprofundamento em observabilidade com ferramentas como Grafana, Prometheus e OpenTelemetry.
+ 
+	Exploração de técnicas de performance e escalabilidade em ambientes de produção.
 
 ⸻
 
